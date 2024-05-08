@@ -39,4 +39,4 @@ Este proyecto desarrolla un sistema de recomendación de videojuegos utilizando 
 - Jupyter
 
 ## Autores
-- Tu Nombre
+- Ricardo Santana
