@@ -40,7 +40,7 @@ Este proyecto desarrolla un sistema de recomendación de videojuegos utilizando 
   
 ## Enlances Relevantes
 - Render de la API: https://pi-henry-ricardo-santana.onrender.com/docs
-- Video de Deployment:
+- Video de Deployment: https://youtu.be/I5fOtSICzBg
 - Fuente de Datos: https://drive.google.com/drive/folders/1HqBG2-sUkz_R3h1dZU5F2uAzpRn7BSpj
   
 
